@@ -1,0 +1,399 @@
+Question: What is the study of how individuals and societies allocate scarce resources to satisfy unlimited wants?
+A) Finance
+B) Economics
+C) Accounting
+D) Marketing
+Correct Answer: B
+Hint: It's the social science that deals with the production, distribution, and consumption of goods and services.
+
+Question: In economics, what term refers to the total value of goods and services produced within a country's borders in a specific time period?
+A) Gross Domestic Product (GDP)
+B) Gross National Product (GNP)
+C) Consumer Price Index (CPI)
+D) Consumer Confidence Index (CCI)
+Correct Answer: A
+Hint: This economic indicator is a key measure of a nation's economic performance.
+
+Question: Which economic system relies on supply and demand to determine the allocation of resources and the pricing of goods and services?
+A) Capitalism
+B) Communism
+C) Socialism
+D) Mercantilism
+Correct Answer: A
+Hint: It is often associated with the idea of a free market.
+
+Question: In finance, what term is used to describe the interest rate that banks charge each other for short-term loans?
+A) Prime Rate
+B) Federal Funds Rate
+C) Discount Rate
+D) LIBOR
+Correct Answer: B
+Hint: It is a key tool used by central banks to control monetary policy.
+
+Question: Which type of unemployment occurs due to fluctuations in the business cycle?
+A) Structural Unemployment
+B) Frictional Unemployment
+C) Cyclical Unemployment
+D) Seasonal Unemployment
+Correct Answer: C
+Hint: This type of unemployment is directly related to the overall health of the economy.
+
+Question: What term describes a situation where a country imports more goods and services than it exports?
+A) Trade Deficit
+B) Trade Surplus
+C) Balance of Trade
+D) Current Account Deficit
+Correct Answer: A
+Hint: It can lead to a negative impact on a country's currency value.
+
+Question: What is the primary purpose of antitrust laws in economics?
+A) To encourage monopolistic behavior
+B) To promote fair competition and prevent monopolies
+C) To protect intellectual property rights
+D) To regulate international trade
+Correct Answer: B
+Hint: These laws aim to prevent the abuse of market power and protect consumers.
+
+Question: In finance, what term is used to describe a situation where the price of goods and services increases over time?
+A) Inflation
+B) Recession
+C) Deflation
+D) Stagflation
+Correct Answer: A
+Hint: It erodes the purchasing power of money.
+
+Question: Which monetary policy tool is used by central banks to control the money supply in an economy?
+A) Fiscal policy
+B) Open market operations
+C) Quantitative easing
+D) Supply-side policy
+Correct Answer: B
+Hint: It involves buying or selling government securities to influence interest rates.
+
+Question: Which economic indicator measures the percentage change in the price level of a basket of goods and services over time?
+A) Gross Domestic Product (GDP)
+B) Consumer Price Index (CPI)
+C) Producer Price Index (PPI)
+D) Retail Sales Index (RSI)
+Correct Answer: B
+Hint: It helps track inflation trends.
+
+Question: What term refers to the cost of forgoing the next best alternative when making a decision?
+A) Opportunity cost
+B) Marginal cost
+C) Sunk cost
+D) Average cost
+Correct Answer: A
+Hint: It's a fundamental concept in economics.
+
+Question: Which type of market structure consists of a large number of small firms selling identical products?
+A) Monopoly
+B) Oligopoly
+C) Perfect competition
+D) Monopolistic competition
+Correct Answer: C
+Hint: There is no product differentiation in this market structure.
+
+Question: In finance, what term describes a measure of an asset's price volatility?
+A) Beta
+B) Alpha
+C) Sharpe ratio
+D) Standard deviation
+Correct Answer: D
+Hint: It quantifies the historical price fluctuations of an asset.
+
+Question: What is the study of how people make decisions in situations where resources are scarce?
+A) Finance
+B) Microeconomics
+C) Macroeconomics
+D) Behavioral economics
+Correct Answer: B
+Hint: It focuses on individual and firm-level decisions.
+
+Question: Which international organization is responsible for regulating international trade and resolving trade disputes between member countries?
+A) International Monetary Fund (IMF)
+B) World Bank
+C) World Trade Organization (WTO)
+D) United Nations (UN)
+Correct Answer: C
+Hint: It was established in 1995 to replace the General Agreement on Tariffs and Trade (GATT).
+
+Question: What term is used to describe a situation where the demand for a good or service is highly responsive to changes in its price?
+A) Elasticity
+B) Inelasticity
+C) Cross-elasticity
+D) Unitary elasticity
+Correct Answer: A
+Hint: It measures the sensitivity of quantity demanded to price changes.
+
+Question: In finance, what does the acronym IPO stand for?
+A) Initial Public Offering
+B) International Portfolio Organization
+C) Investment and Portfolio Optimization
+D) Integrated Public Offering
+Correct Answer: A
+Hint: It's the first sale of stock by a private company to the public.
+
+Question: What is the primary goal of expansionary monetary policy?
+A) To reduce inflation
+B) To decrease government spending
+C) To increase taxes
+D) To stimulate economic growth
+Correct Answer: D
+Hint: It involves increasing the money supply and lowering interest rates.
+
+Question: Which economic theory advocates for limited government intervention in the economy and emphasizes individual self-interest?
+A) Keynesian economics
+B) Classical economics
+C) Behavioral economics
+D) Marxist economics
+Correct Answer: B
+Hint: It was popularized by Adam Smith's "The Wealth of Nations."
+
+Question: What term refers to a situation where the actual rate of unemployment is lower than the natural rate of unemployment?
+A) Full employment
+B) Cyclical unemployment
+C) Structural unemployment
+D) Frictional unemployment
+Correct Answer: A
+Hint: All available labor resources are being utilized.
+
+Question: In finance, what does the P/E ratio (price-to-earnings ratio) measure?
+A) A company's debt-to-equity ratio
+B) The return on investment for a stock
+C) The market value of a stock relative to its earnings per share
+D) The growth rate of a company's earnings
+Correct Answer: C
+Hint: It helps assess the relative valuation of a stock.
+
+Question: Which type of monetary policy is employed when a central bank sells government securities to decrease the money supply and increase interest rates?
+A) Tight monetary policy
+B) Loose monetary policy
+C) Expansionary monetary policy
+D) Contractionary monetary policy
+Correct Answer: D
+Hint: It aims to control inflation.
+
+Question: What is the term for the systematic and continuous increase in the general price level of goods and services over time?
+A) Deflation
+B) Stagflation
+C) Hyperinflation
+D) Inflation
+Correct Answer: D
+Hint: It can erode the purchasing power of money.
+
+Question: Which type of risk is associated with changes in interest rates?
+A) Credit risk
+B) Market risk
+C) Operational risk
+D) Liquidity risk
+Correct Answer: B
+Hint: It is also known as interest rate risk.
+
+Question: What term describes a situation where the government spends more money than it collects in revenue?
+A) Budget surplus
+B) Budget deficit
+C) National debt
+D) Fiscal deficit
+Correct Answer: B
+Hint: It leads to an increase in the national debt.
+
+Question: Which market structure consists of a single seller dominating the entire market and having control over prices?
+A) Oligopoly
+B) Monopolistic competition
+C) Monopoly
+D) Perfect competition
+Correct Answer: C
+Hint: It is characterized by the absence of competition.
+
+Question: In economics, what term is used to describe a situation where the quantity demanded exceeds the quantity supplied at a given price?
+A) Surplus
+B) Shortage
+C) Equilibrium
+D) Scarcity
+Correct Answer: B
+Hint: It indicates that the price is too low.
+
+Question: What is the term for a sustained period of economic downturn characterized by falling GDP and rising unemployment?
+A) Boom
+B) Recession
+C) Depression
+D) Recovery
+Correct Answer: B
+Hint: It's a phase of the business cycle.
+
+Question: What is the main function of a central bank in an economy?
+A) To regulate the stock market
+B) To control fiscal policy
+C) To manage foreign exchange rates
+D) To control the money supply and monetary policy
+Correct Answer: D
+Hint: It influences interest rates and inflation.
+
+Question: Which economic theory suggests that the government can stimulate economic growth by increasing public spending and cutting taxes during economic downturns?
+A) Supply-side economics
+B) Keynesian economics
+C) Monetarism
+D) Austrian economics
+Correct Answer: B
+Hint: It was developed by John Maynard Keynes.
+
+Question: What term is used to describe a situation where the quantity supplied exceeds the quantity demanded at a given price?
+A) Surplus
+B) Shortage
+C) Equilibrium
+D) Scarcity
+Correct Answer: A
+Hint: It indicates that the price is too high.
+
+Question: Which financial instrument represents a loan made by an investor to a government or corporation in exchange for periodic interest payments?
+A) Stocks
+B) Bonds
+C) Commodities
+D) Derivatives
+Correct Answer: B
+Hint: It is a form of debt security.
+
+Question: In finance, what does the term "diversification" refer to?
+A) Investing in high-risk assets
+B) Putting all funds in a single investment
+C) Spreading investments across different assets to reduce risk
+D) Taking on more debt to boost returns
+Correct Answer: C
+Hint: It is a risk management strategy.
+
+Question: Which economic indicator measures the total value of all goods and services produced by a country, including income from foreign investments?
+A) Gross Domestic Product (GDP)
+B) Gross National Product (GNP)
+C) Consumer Price Index (CPI)
+D) Balance of Trade (BOT)
+Correct Answer: B
+Hint: It accounts for income earned by citizens abroad.
+
+Question: What term describes a tax system where the average tax rate decreases as income increases?
+A) Regressive tax
+B) Progressive tax
+C) Proportional tax
+D) Excise tax
+Correct Answer: B
+Hint: It aims to reduce income inequality.
+
+Question: Which economic theory advocates for government intervention in the economy to reduce income inequality and regulate markets?
+A) Classical economics
+B) Laissez-faire economics
+C) Supply-side economics
+D) Keynesian economics
+Correct Answer: D
+Hint: It gained prominence during the Great Depression.
+
+Question: In finance, what term is used to describe the risk of a loss arising from a change in foreign exchange rates?
+A) Currency risk
+B) Market risk
+C) Interest rate risk
+D) Credit risk
+Correct Answer: A
+Hint: It affects international investments.
+
+Question: Which type of inflation occurs due to rising costs of production passed on to consumers?
+A) Demand-pull inflation
+B) Cost-push inflation
+C) Stagflation
+D) Hyperinflation
+Correct Answer: B
+Hint: It is often caused by factors like increasing wages or input prices.
+
+Question: What term describes the phenomenon where an increase in the money supply leads to an increase in prices without a corresponding increase in real output?
+A) Hyperinflation
+B) Stagflation
+C) Demand-pull inflation
+D) Cost-push inflation
+Correct Answer: A
+Hint: It can erode the value of money rapidly.
+
+Question: Which international organization provides financial assistance and policy advice to its member countries to promote economic stability and growth?
+A) World Trade Organization (WTO)
+B) International Monetary Fund (IMF)
+C) World Bank
+D) United Nations (UN)
+Correct Answer: B
+Hint: It plays a crucial role during financial crises.
+
+Question: In finance, what term is used to describe a market condition where asset prices are declining?
+A) Bull market
+B) Bear market
+C) Bullish trend
+D) Sideways market
+Correct Answer: B
+Hint: It's a pessimistic sentiment in the market.
+
+Question: Which monetary policy tool involves changing the reserve requirements for banks to influence the money supply?
+A) Open market operations
+B) Discount rate
+C) Reserve ratio
+D) Quantitative easing
+Correct Answer: C
+Hint: It determines how much banks must hold in reserves.
+
+Question: What is the primary goal of contractionary fiscal policy?
+A) To reduce unemployment
+B) To stimulate economic growth
+C) To decrease government spending
+D) To control inflation
+Correct Answer: D
+Hint: It involves reducing government spending and increasing taxes.
+
+Question: In finance, what does the acronym ETF stand for?
+A) Estimated Trading Fund
+B) Exchange Traded Fund
+C) Equity Trust Fund
+D) Extended Treasury Fund
+Correct Answer: B
+Hint: It's a type of investment fund traded on stock exchanges.
+
+Question: Which economic concept suggests that as income increases, the proportion of income spent on goods and services decreases?
+A) Engel's law
+B) Laffer curve
+C) Pareto efficiency
+D) Phillips curve
+Correct Answer: A
+Hint: It relates to consumption patterns.
+
+Question: What term is used to describe the highest point of economic activity in a business cycle?
+A) Boom
+B) Recession
+C) Depression
+D) Recovery
+Correct Answer: A
+Hint: It is characterized by high employment and production.
+
+Question: Which type of unemployment occurs when workers are transitioning between jobs or entering the workforce for the first time?
+A) Structural unemployment
+B) Frictional unemployment
+C) Cyclical unemployment
+D) Seasonal unemployment
+Correct Answer: B
+Hint: It's often considered a natural part of the labor market.
+
+Question: In economics, what term describes the ability of an individual, firm, or country to produce a good or service at a lower opportunity cost than others?
+A) Comparative advantage
+B) Absolute advantage
+C) Marginal advantage
+D) Production advantage
+Correct Answer: A
+Hint: It forms the basis for international trade.
+
+Question: Which financial ratio measures a company's ability to meet its short-term obligations using its most liquid assets?
+A) Debt-to-Equity Ratio
+B) Current Ratio
+C) Return on Equity (ROE)
+D) Price-Earnings (P/E) Ratio
+Correct Answer: B
+Hint: It compares current assets to current liabilities.
+
+Question: What is the primary function of a stock exchange in the financial market?
+A) To issue new shares of stock to the public
+B) To facilitate the buying and selling of financial assets
+C) To regulate the interest rates set by banks
+D) To provide loans to companies
+Correct Answer: B
+Hint: It acts as a marketplace for securities trading.
