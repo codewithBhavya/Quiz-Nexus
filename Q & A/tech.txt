@@ -1,0 +1,399 @@
+Question: What does "CPU" stand for?
+a) Central Processing Unit
+b) Control Processing Unit
+c) Computer Processing Unit
+d) Central Power Unit
+Correct Answer: a
+Hint: It is the brain of a computer responsible for executing instructions.
+
+Question: What is the function of an "SSD" in a computer?
+a) Sound Signal Driver
+b) Solid State Drive
+c) System Software Download
+d) Secondary Storage Device
+Correct Answer: b
+Hint: It is a type of storage device that uses NAND-based flash memory.
+
+Question: Which programming language is used for creating web pages?
+a) Java
+b) Python
+c) HTML
+d) Ruby
+Correct Answer: c
+Hint: It stands for HyperText Markup Language and is the foundation of web development.
+
+Question: What does "URL" stand for?
+a) Universal Resource Locator
+b) Uniform Resource Locator
+c) Universal Remote Locator
+d) Uniform Remote Locator
+Correct Answer: b
+Hint: It is the address used to identify resources on the internet.
+
+Question: Which technology is used for wireless communication between devices?
+a) Bluetooth
+b) Infrared
+c) NFC (Near Field Communication)
+d) USB
+Correct Answer: a
+Hint: It is commonly used for connecting peripherals to smartphones and computers.
+
+Question: What does "HTML5" refer to?
+a) The latest version of the HyperText Markup Language
+b) The fifth version of the Hypertext Transfer Protocol
+c) A programming language for artificial intelligence
+d) A gaming console developed by Sony
+Correct Answer: a
+Hint: It includes new features like video, audio, and canvas elements for web development.
+
+Question: What does "GPS" stand for?
+a) Global Positioning System
+b) Geographic Positioning System
+c) General Positioning Satellite
+d) Global Position Satellite
+Correct Answer: a
+Hint: It is used for determining the precise location of a person or device.
+
+Question: Which programming language is often used for data analysis and machine learning?
+a) JavaScript
+b) C++
+c) Python
+d) Swift
+Correct Answer: c
+Hint: It has gained popularity due to its ease of use and extensive libraries.
+
+Question: What is the purpose of a "firewall" in network security?
+a) Enhancing internet speed
+b) Preventing unauthorized access to a network
+c) Increasing Wi-Fi range
+d) Blocking spam emails
+Correct Answer: b
+Hint: It acts as a barrier between a trusted network and an untrusted one.
+
+Question: Which technology is used to make payments using a mobile device?
+a) Bluetooth
+b) Wi-Fi
+c) NFC (Near Field Communication)
+d) Infrared
+Correct Answer: c
+Hint: It allows contactless payments by tapping the device on a compatible terminal.
+
+Question: What does "PDF" stand for?
+a) Portable Document Format
+b) Personal Data File
+c) Print Document Format
+d) Public Domain File
+Correct Answer: a
+Hint: It is a file format used for representing documents independently of software and hardware.
+
+Question: Which company developed the first commercially successful personal computer?
+a) IBM
+b) Microsoft
+c) Apple
+d) Dell
+Correct Answer: a
+Hint: It was released in 1981 and was called IBM PC.
+
+Question: Which technology is used for contactless data transfer over short distances?
+a) NFC (Near Field Communication)
+b) Bluetooth
+c) Wi-Fi
+d) GPS
+Correct Answer: a
+Hint: It is commonly used for mobile payments and data sharing between devices.
+
+Question: What does "HTTP" stand for?
+a) Hypertext Transfer Protocol
+b) Hyperlink Transfer Protocol
+c) Hypertext Text Protocol
+d) Hyper Transfer Protocol
+Correct Answer: a
+Hint: It is the foundation of data communication on the World Wide Web.
+
+Question: Which technology is used to store data on optical discs like CDs and DVDs?
+a) SSD
+b) Blu-ray
+c) USB
+d) RAM
+Correct Answer: b
+Hint: It offers higher storage capacity than traditional CDs and DVDs.
+
+Question: What is the purpose of an "ISP"?
+a) Internet Service Provider
+b) Internet Signal Processor
+c) Internal System Protocol
+d) International Security Program
+Correct Answer: a
+Hint: It provides users with access to the internet.
+
+Question: Which technology is used to identify and authenticate users based on physical characteristics?
+a) Biometrics
+b) Encryption
+c) Blockchain
+d) Virtual Reality
+Correct Answer: a
+Hint: It includes fingerprint, facial, and iris recognition.
+
+Question: What does "RAM" stand for?
+a) Read-Only Memory
+b) Random Access Memory
+c) Rapid Application Management
+d) Remote Access Module
+Correct Answer: b
+Hint: It is used for temporary storage of data that the CPU is currently processing.
+
+Question: Which programming language is commonly used for front-end web development?
+a) Java
+b) C#
+c) JavaScript
+d) Ruby
+Correct Answer: c
+Hint: It is primarily used for adding interactivity and dynamic content to websites.
+
+Question: What is the purpose of a "router" in a computer network?
+a) Transferring data between devices within a local network
+b) Providing electrical power to devices
+c) Connecting the computer to the internet
+d) Storing files and folders for easy access
+Correct Answer: a
+Hint: It directs data packets to their destination within a network.
+
+Question: What is the primary function of an "antivirus" software?
+a) Optimizing computer performance
+b) Backing up data automatically
+c) Protecting against malicious software
+d) Managing network traffic
+Correct Answer: c
+Hint: It helps safeguard your computer from viruses, malware, and other threats.
+
+Question: Which technology is used to store data and software remotely over the internet?
+a) Cloud computing
+b) Virtual reality
+c) Augmented reality
+d) Machine learning
+Correct Answer: a
+Hint: It allows access to data and applications from anywhere with an internet connection.
+
+Question: What is the purpose of a "GPU" in a computer?
+a) Managing the cooling system
+b) Displaying images on the screen
+c) Running antivirus scans
+d) Performing complex graphical calculations
+Correct Answer: d
+Hint: It is specifically designed to handle graphics processing tasks.
+
+Question: What does "IoT" stand for?
+a) Internet of Technology
+b) Internet of Things
+c) Integrated Online Tools
+d) International Online Transactions
+Correct Answer: b
+Hint: It refers to the network of interconnected devices and objects.
+
+Question: Which technology is used to create a secure and encrypted connection between a user and a website?
+a) HTTPS
+b) FTP
+c) SMTP
+d) SNMP
+Correct Answer: a
+Hint: It ensures data transmitted between the user and the website remains confidential.
+
+Question: What is the purpose of a "modem"?
+a) Displaying images on the screen
+b) Converting digital data to analog signals and vice versa
+c) Storing data temporarily
+d) Controlling the cooling system
+Correct Answer: b
+Hint: It is used to connect a computer to the internet over telephone lines.
+
+Question: Which technology is used to display three-dimensional images and videos?
+a) HD
+b) 3G
+c) VR
+d) LED
+Correct Answer: c
+Hint: It creates a simulated environment that users can interact with.
+
+Question: What does "URL" stand for?
+a) Universal Resource Locator
+b) Uniform Resource Locator
+c) Universal Remote Locator
+d) Uniform Remote Locator
+Correct Answer: b
+Hint: It is the address used to identify resources on the internet.
+
+Question: Which programming language is used for creating web pages?
+a) Java
+b) Python
+c) HTML
+d) Ruby
+Correct Answer: c
+Hint: It stands for HyperText Markup Language and is the foundation of web development.
+
+Question: What does "CPU" stand for?
+a) Central Processing Unit
+b) Control Processing Unit
+c) Computer Processing Unit
+d) Central Power Unit
+Correct Answer: a
+Hint: It is the brain of a computer responsible for executing instructions.
+
+Question: What is the function of an "SSD" in a computer?
+a) Sound Signal Driver
+b) Solid State Drive
+c) System Software Download
+d) Secondary Storage Device
+Correct Answer: b
+Hint: It is a type of storage device that uses NAND-based flash memory.
+
+Question: Which technology is used for wireless communication between devices?
+a) Bluetooth
+b) Infrared
+c) NFC (Near Field Communication)
+d) USB
+Correct Answer: a
+Hint: It is commonly used for connecting peripherals to smartphones and computers.
+
+Question: What does "HTML5" refer to?
+a) The latest version of the HyperText Markup Language
+b) The fifth version of the Hypertext Transfer Protocol
+c) A programming language for artificial intelligence
+d) A gaming console developed by Sony
+Correct Answer: a
+Hint: It includes new features like video, audio, and canvas elements for web development.
+
+Question: What does "GPS" stand for?
+a) Global Positioning System
+b) Geographic Positioning System
+c) General Positioning Satellite
+d) Global Position Satellite
+Correct Answer: a
+Hint: It is used for determining the precise location of a person or device.
+
+Question: Which programming language is often used for data analysis and machine learning?
+a) JavaScript
+b) C++
+c) Python
+d) Swift
+Correct Answer: c
+Hint: It has gained popularity due to its ease of use and extensive libraries.
+
+Question: What is the purpose of a "firewall" in network security?
+a) Enhancing internet speed
+b) Preventing unauthorized access to a network
+c) Increasing Wi-Fi range
+d) Blocking spam emails
+Correct Answer: b
+Hint: It acts as a barrier between a trusted network and an untrusted one.
+
+Question: Which technology is used to make payments using a mobile device?
+a) Bluetooth
+b) Wi-Fi
+c) NFC (Near Field Communication)
+d) Infrared
+Correct Answer: c
+Hint: It allows contactless payments by tapping the device on a compatible terminal.
+
+Question: What does "PDF" stand for?
+a) Portable Document Format
+b) Personal Data File
+c) Print Document Format
+d) Public Domain File
+Correct Answer: a
+Hint: It is a file format used for representing documents independently of software and hardware.
+
+Question: Which company developed the first commercially successful personal computer?
+a) IBM
+b) Microsoft
+c) Apple
+d) Dell
+Correct Answer: a
+Hint: It was released in 1981 and was called IBM PC.
+
+Question: Which technology is used for contactless data transfer over short distances?
+a) NFC (Near Field Communication)
+b) Bluetooth
+c) Wi-Fi
+d) GPS
+Correct Answer: a
+Hint: It is commonly used for mobile payments and data sharing between devices.
+
+Question: What does "HTTP" stand for?
+a) Hypertext Transfer Protocol
+b) Hyperlink Transfer Protocol
+c) Hypertext Text Protocol
+d) Hyper Transfer Protocol
+Correct Answer: a
+Hint: It is the foundation of data communication on the World Wide Web.
+
+Question: Which technology is used to store data on optical discs like CDs and DVDs?
+a) SSD
+b) Blu-ray
+c) USB
+d) RAM
+Correct Answer: b
+Hint: It offers higher storage capacity than traditional CDs and DVDs.
+
+Question: What is the purpose of an "ISP"?
+a) Internet Service Provider
+b) Internet Signal Processor
+c) Internal System Protocol
+d) International Security Program
+Correct Answer: a
+Hint: It provides users with access to the internet.
+
+Question: Which technology is used to identify and authenticate users based on physical characteristics?
+a) Biometrics
+b) Encryption
+c) Blockchain
+d) Virtual Reality
+Correct Answer: a
+Hint: It includes fingerprint, facial, and iris recognition.
+
+Question: What does "RAM" stand for?
+a) Read-Only Memory
+b) Random Access Memory
+c) Rapid Application Management
+d) Remote Access Module
+Correct Answer: b
+Hint: It is used for temporary storage of data that the CPU is currently processing.
+
+Question: Which programming language is commonly used for front-end web development?
+a) Java
+b) C#
+c) JavaScript
+d) Ruby
+Correct Answer: c
+Hint: It is primarily used for adding interactivity and dynamic content to websites.
+
+Question: What is the purpose of a "router" in a computer network?
+a) Transferring data between devices within a local network
+b) Providing electrical power to devices
+c) Connecting the computer to the internet
+d) Storing files and folders for easy access
+Correct Answer: a
+Hint: It directs data packets to their destination within a network.
+
+Question: What is the primary function of an "antivirus" software?
+a) Optimizing computer performance
+b) Backing up data automatically
+c) Protecting against malicious software
+d) Managing network traffic
+Correct Answer: c
+Hint: It helps safeguard your computer from viruses, malware, and other threats.
+
+Question: Which technology is used to store data and software remotely over the internet?
+a) Cloud computing
+b) Virtual reality
+c) Augmented reality
+d) Machine learning
+Correct Answer: a
+Hint: It allows access to data and applications from anywhere with an internet connection.
+
+Question: What is the purpose of a "GPU" in a computer?
+a) Managing the cooling system
+b) Displaying images on the screen
+c) Running antivirus scans
+d) Performing complex graphical calculations
+Correct Answer: d
+Hint: It is specifically designed to handle graphics processing tasks.
